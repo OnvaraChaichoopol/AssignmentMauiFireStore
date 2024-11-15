@@ -322,3 +322,4 @@
 /Users/mac/DX212/FireDB/FireDB/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/FireDB.pdb
 /Users/mac/DX212/FireDB/FireDB/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/FireDB.genruntimeconfig.cache
 /Users/mac/DX212/FireDB/FireDB/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/ref/FireDB.dll
+/Users/mac/DX212/FireDB/FireDB/obj/Debug/net8.0-maccatalyst/maccatalyst-arm64/FireDB.sourcelink.json
